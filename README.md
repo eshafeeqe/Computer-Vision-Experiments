@@ -1,5 +1,8 @@
 # Computer-Vision-Experiments
 
+Objective:
+The objective of these works are understand some classical computer vision problems like feature point extraction detection and compute homographies ect. I am starting with basic poblems and eventually I will upload more complicated problems in CV. 
+
 Harris Corner Detection and Matching
 
 This code will detect corner points of image by using Harris corner detection method, and find 
